@@ -1,0 +1,94 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# PyTorch
+*.pth
+*.pt
+*.ckpt
+
+# Data files
+*.mat
+*.csv
+*.h5
+*.hdf5
+data/
+CWRU_Dataset/
+Paderborn_Dataset/
+datasets/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs and outputs
+*.log
+logs/
+outputs/
+runs/
+wandb/
+tensorboard/
+
+# Results
+results/*.png
+results/*.jpg
+results/*.pdf
+visualizations/*.png
+visualizations/*.jpg
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Reports and Documentation
+*.docx
+*.pdf
+*.pptx
+Report.docx
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Old/backup folders
+*_OLD/
+*_BACKUP/
+01_MAIN_RESULTS/
+02_VALIDATION_EXPERIMENTS/
+03_EARLIER_CWRU_EXPERIMENTS/
+04_PADERBORN_BASELINE_ATTEMPTS/
+05_HYBRID_COMPLEX_MODELS/
+06_DOMAIN_ADAPTATION_ATTEMPTS/
