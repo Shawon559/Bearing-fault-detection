@@ -1,8 +1,8 @@
 """
 Multi-Scale Attention Fusion Network for 3-Class Bearing Fault Detection.
 
-This module implements a deep learning architecture that combines multiple
-signal representations (envelope spectrum, multi-scale FFT, and time-domain statistics)
+Deep learning architecture combining multiple signal representations:
+envelope spectrum, multi-scale FFT, and time-domain statistics
 with attention-based fusion for robust bearing fault classification.
 
 Performance: 99.26% test accuracy on Paderborn dataset
