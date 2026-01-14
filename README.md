@@ -242,7 +242,7 @@ MIT License - See LICENSE file for details
 
 ## Contact
 
-For questions or collaboration, open an issue on GitHub.
+For questions or collaboration opportunities, open an issue on GitHub.
 
 ## Acknowledgments
 
